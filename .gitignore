@@ -1,0 +1,15 @@
+# Ignorar el entorno virtual
+venv/
+lib/
+bin/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos específicos del sistema operativo
+.DS_Store  # MacOS
+Thumbs.db  # Windows
+lib64
+pyvenv.cfg
+.env
